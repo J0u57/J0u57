@@ -1,4 +1,4 @@
-# :man_technologist_tone1: - **Hey There!**
+# 🕵️ - **Hey There!**
 
  
 > :clipboard: | You can reach me VIA my public email or my Discord Profile!
