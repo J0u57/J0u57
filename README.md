@@ -4,7 +4,6 @@
 > :clipboard: | You can reach me VIA my public email or my Discord Profile!
 > :deciduous_tree: | Most of my study projects are here, my daily evolution as a programmer.
 > :earth_africa: | I agree to do new projects & do a little something. If you want, get in touch: Hatsu#0001
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HatsuDev&color=17f213" alt="Hatsu" /> </p>
 
 #  *My Languages & Environments*
