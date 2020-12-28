@@ -9,7 +9,7 @@
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=HatsuDev&color=17f213" alt="Hatsu" /> </p>
 
-#  *My Languages & Tool's - *
+#  *My Languages & Tool's*
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -30,11 +30,10 @@
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 
+# 🔧 - **Obrigado por visitar o meu perfil.**
+
+# 🔧 - **Thank you for visiting my profile.**
 
 
 ### *Spotify Listening :musical_note:*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Hatsu)
-
-# 🔧 - **Obrigado por visitar o meu perfil.**
-
-# 🔧 - **Thank you for visiting my profile.**
