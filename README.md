@@ -27,7 +27,6 @@
 <code><img height="27" src="https://miro.medium.com/max/1200/1*vlizTMdjUwMhCP4WniRDcw.png" alt="nmap"></code>
 <code><img height="27" src="https://www.hackingtools.in/wp-content/uploads/2016/04/free-download-JohntheRipperpasswordcracker-software.jpeg" alt="john"></code>
 <code><img height="27" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit"></code>
-<code><img height="27" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit"></code>
 
 #  *Status*
 <details style='text-align: center;' align='center'>
