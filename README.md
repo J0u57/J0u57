@@ -23,10 +23,10 @@
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Cmmdx0 "Visual Studio")](https://github.com/Cmmdx0)
 
 #  *Pentest and Hacking Tools*
-<code><img height="27" src="https://i2.wp.com/www.infosecmonkey.com/wp-content/uploads/2019/04/nmap-logo-256x256.png?fit=256%2C256" alt="nmap"></code>
-<code><img height="27" src="https://miro.medium.com/max/1200/1*vlizTMdjUwMhCP4WniRDcw.png" alt="nmap"></code>
-<code><img height="27" src="https://www.hackingtools.in/wp-content/uploads/2016/04/free-download-JohntheRipperpasswordcracker-software.jpeg" alt="john"></code>
-<code><img height="27" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit"></code>
+<code><img height="35" src="https://i2.wp.com/www.infosecmonkey.com/wp-content/uploads/2019/04/nmap-logo-256x256.png?fit=256%2C256" alt="nmap"></code>
+<code><img height="35" src="https://miro.medium.com/max/1200/1*vlizTMdjUwMhCP4WniRDcw.png" alt="nmap"></code>
+<code><img height="35" src="https://www.hackingtools.in/wp-content/uploads/2016/04/free-download-JohntheRipperpasswordcracker-software.jpeg" alt="john"></code>
+<code><img height="35" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit"></code>
 
 #  *Status*
 <details style='text-align: center;' align='center'>
@@ -40,9 +40,6 @@
 # 🔧 - **Obrigado por visitar o meu perfil.**
 
 # 🔧 - **Thank you for visiting my profile.**
-
-<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789531149038387210/9d37e9ab4fa26437516983a513237f03.gif?width=473&height=473" />
-
 
 ### *Spotify Listening :musical_note:*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Hatsu)
