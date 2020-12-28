@@ -41,6 +41,8 @@
 
 # 🔧 - **Thank you for visiting my profile.**
 
+<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789531149038387210/9d37e9ab4fa26437516983a513237f03.gif?width=473&height=473" />
+
 
 ### *Spotify Listening :musical_note:*
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Hatsu)
