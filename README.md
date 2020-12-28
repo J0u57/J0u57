@@ -1,9 +1,9 @@
 # 🎖️ - **Yo! Hatsu here!**
 
  
- :clipboard: | Yo! Hatsu aqui. Seja bem vindo ao meu perfil, obrigado por entrar.
- :deciduous_tree: | Hey! Hatsu here. Welcome to my profile, thanks for joining.
- :earth_africa: | ねえ！はつです。ご参加いただきありがとうございます。私のプロフィールへようこそ。
+ :clipboard: | Yo! Hatsu aqui. Seja bem vindo ao meu perfil, obrigado por entrar.\n
+ :deciduous_tree: | Hey! Hatsu here. Welcome to my profile, thanks for joining.\n
+ :earth_africa: | ねえ！はつです。ご参加いただきありがとうございます。私のプロフィールへようこそ。\n
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=HatsuDev&color=17f213" alt="Hatsu" /> </p>
 
 #  *My Languages & Tool's - *
