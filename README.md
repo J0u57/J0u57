@@ -15,6 +15,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://drt.sh/img/surface-pro-refind/os_kali.png" alt="linux"></code>
+<code><img height="27" src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" alt="ubuntu"></code>
 
 #  *Softwares*
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
