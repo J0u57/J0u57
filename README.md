@@ -15,4 +15,4 @@
   
 </p>
 
-<h3 align="center">:flag_br:<h3>
+<h3 align="center">🏄<h3>
