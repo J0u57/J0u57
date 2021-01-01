@@ -1,14 +1,14 @@
 # 🎖️ - **Yo! Hatsu here!**
 
-# :trophy: - **My Discord : Hatsu#0001**
+# :trophy: - **My Discord : J0u57 🦈#0001**
 
- :clipboard: | Yo! Hatsu aqui. Seja bem vindo ao meu perfil, obrigado por entrar.
+ :clipboard: | Yo! J0u57 aqui. Seja bem vindo ao meu perfil, obrigado por entrar.
  
- :deciduous_tree: | Hey! Hatsu here. Welcome to my profile, thanks for joining.
+ :deciduous_tree: | Hey! J0u57 here. Welcome to my profile, thanks for joining.
  
  :earth_africa: | ねえ！はつです。ご参加いただきありがとうございます。私のプロフィールへようこそ。
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HatsuDev&color=17f213" alt="Hatsu" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=HatsuDev&color=17f213" alt="J0u57" /> </p>
 
 #  *My Languages & Tool's*
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -42,4 +42,4 @@
 # 🔧 - **Thank you for visiting my profile.**
 
 ### *Spotify Listening :musical_note:*
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Hatsu)
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/J0u57)
