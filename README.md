@@ -15,8 +15,4 @@
   
 </p>
 
-<p align="center">
-    <img src="" />
-</p>
-
-<h3 align="center">:brazil:<h3>
+<h3 align="center">:flag_br:<h3>
