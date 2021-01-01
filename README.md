@@ -19,4 +19,4 @@
     <img src="" />
 </p>
 
-<h3 align="center">:brazil: :black_flag:<h3>
+<h3 align="center">:brazil:<h3>
