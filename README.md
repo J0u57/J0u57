@@ -1,4 +1,4 @@
-# 🎖️ - **Yo! Hatsu here!**
+# 🎖️ - **Yo! J0u57 here!**
 
 # :trophy: - **My Discord : J0u57 🦈#0001**
 
