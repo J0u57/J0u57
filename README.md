@@ -3,8 +3,8 @@
 </h2>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
-  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+  <img align="center" src="https://img.helpnetsecurity.com/wp-content/uploads/2020/02/10123452/offensive_security-logo-black.jpg"/>
+  <img align="center" src="https://img.helpnetsecurity.com/wp-content/uploads/2020/02/10123452/offensive_security-logo-black.jpg"/>
 </p>
 
 <p align="center">
